@@ -19,7 +19,6 @@ public class MainActivity extends AppCompatActivity {
     EditText saarEditText;
     float valueOne, valueTwo;
     boolean mPlus, mMinus, mMultiply, mDivide;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
